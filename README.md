@@ -9,7 +9,7 @@
 
 # Make sure to have already installed or instal Nodejs and yarn to run
 
-# start the application
+# Start the application
 
 3. yarn start
 
